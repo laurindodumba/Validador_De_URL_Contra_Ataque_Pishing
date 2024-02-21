@@ -1,0 +1,2 @@
+
+Comando para executar a aplicação - pyhon home.py
