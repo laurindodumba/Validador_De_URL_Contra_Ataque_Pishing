@@ -60,5 +60,12 @@ Também usei o framework Bootstrap para ajudar na estilização da aplicação, 
 
 
 
+![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUÍDO&color=GREEN&style=for-the-badge)
+
+
+# Autor:
+
+| [<br><sub>Laurindo Dumba</sub>](https://github.com/laurindodumba) 
+| :---: | 
 
 
